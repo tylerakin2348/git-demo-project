@@ -1,7 +1,11 @@
 body {
-    background-color: purple;
+    background-color: white;
 }
 
 .top-level-heading {
-    color: white;
+    color: purple;
+}
+
+.second-level-heading {
+    color: blue;
 }
